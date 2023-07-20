@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Yazan Akel and I'm syrian developer :)
 <!--
 **yazanaqel/yazanaqel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
