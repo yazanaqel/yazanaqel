@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Yazan Akel and I'm syrian developer 😊
+My name is Yazan Akel and I'm syrian .NET Developer 😊
 
 ◽📫 check out my portfolio
 <!--
