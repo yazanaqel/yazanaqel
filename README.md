@@ -1,5 +1,6 @@
 ### Hi there 👋
-My Name Is Yazan Akel and I'm C# | .NET Backend Developer 😊
+My Name Is Yazan Akel and I'm Software Engineer
+I work with C# | .NET Core Framework
 
 ◽📫 check out my portfolio
 <!--
