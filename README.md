@@ -1,6 +1,6 @@
 ### Hi there 👋
-My Name Is Yazan Akel and I'm Software Engineer
-I work with C# | .NET Core Framework
+I'm Yazan Akel Software Architect
+I use C# | .NET
 
 ◽📫 check out my portfolio
 <!--
