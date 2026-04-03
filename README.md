@@ -1,7 +1,7 @@
 ### Hi there 👋
-It's Yazan Akel 😊
-Software Architect 📐📏
-C# | .NET
+### It's Yazan Akel 😊
+### Software Architect 📐📏
+### C# | .NET
 
 <!--
 **yazanaqel/yazanaqel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
