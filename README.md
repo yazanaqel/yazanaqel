@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Yazan Akel Software Architect
-I use C# | .NET
+It's Yazan Akel 😊
+Software Architect 📐📏
+C# | .NET
 
-◽📫 check out my portfolio
 <!--
 **yazanaqel/yazanaqel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
